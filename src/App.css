@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.contentBox {
+  width : 500px;
+  height: 600px;
+  margin : auto;
+  padding-top : 10px;
+  border : 2px solid black;
+  border-radius: 20px;
+  background: #f9f9f9;
+  align-items: center;
+  justify-content: center;
+}
+
+.title{
+  display : flex;
+  padding-top : 30px;
+  padding-bottom: 30px;
+  color : black;
+  font-size : 50px;
+  align-items: center;
+  justify-content: center;
+}
+
+.todoLine{
+  margin : 10px;
+  font-size : 20px;
+}
+
